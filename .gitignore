@@ -1,1 +1,9 @@
+# vagrant-related
+Vagrantfile
+.vagrant
+# all related
 chef-repo-yu
+# jboss-related
+src
+jboss
+# drupal-related
